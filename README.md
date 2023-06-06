@@ -18,5 +18,8 @@ OLED SCL = A5(Search I2C pins of your board if youre not using a nano or an uno)
 OLED SDA = A4 📟
 
 File of the schematic is posted under WIRING.PNG using WOKWI 📸
+![WIRING](https://github.com/NotHavocc/TamaDuino/assets/135747967/c293f133-3172-41ed-9b53-b8a694e0c24d)
 ***
+
+
 
